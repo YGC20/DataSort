@@ -6,7 +6,7 @@ setup(
     # 프로젝트 명을 입력합니다.
     version = '0.0.1',
     # 프로젝트 버전을 입력합니다.
-    url = "",
+    url = "https://github.com/YGC20/DataSort",
     # 홈페이지 주소를 입력합니다.
     author = 'YGC20',
     # 프로젝트 담당자 혹은 작성자를 입력합니다.
